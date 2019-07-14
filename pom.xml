@@ -8,6 +8,7 @@
         <version>1.4.1.RELEASE</version>
 	</parent>
 	<artifactId>spring-boot-sample-session-redis</artifactId>
+	<version>1.4.1.RELEASE</version>
 	<name>Spring Boot Session Redis Sample</name>
 	<description>Spring Boot Session Redis Sample</description>
 	<url>http://projects.spring.io/spring-boot/</url>
